@@ -27,7 +27,7 @@ Tutorial de como realizar "Pong" en C++ usando librería SFML donde puedes ver e
  [![](https://img.shields.io/badge/YouTube-Arkanoid-red)](https://www.youtube.com/watch?v=Q-J5JZHkghg&t=1389s)
 
 
-###Realizado por:
+### Realizado por:
                 Juan José Läderach con fines educativos el 25 de Julio del 2022.
                 
 El código Fuente se encuentra en este repositorio, archivo con extención cpp. Esta realizado bajo la plataforma linux. 
