@@ -2,7 +2,30 @@
 
 Tutorial de como realizar "Pong" en C++ usando librería SFML donde puedes ver el paso a paso en:
 
-https://www.youtube.com/watch?v=HvYVP6MLuR0 
+### ⭐️Youtube:
+
+#### 🕹 Pong
+[![](https://img.shields.io/badge/YouTube-Pong-red)](https://www.youtube.com/watch?v=HvYVP6MLuR0)
+ 
+### ⭐️ Otros tutoriales que te puede interesar:
+
+#### 🕹 Buscaminas
+[![](https://img.shields.io/badge/YouTube-Buscaminas-red)](https://www.youtube.com/watch?v=_NPT708qXpM&t=1187s)
+ 
+#### 🕹 Juego del Ahorcado
+[![](https://img.shields.io/badge/YouTube-Ahorcado-red)](https://www.youtube.com/watch?v=smFGH95Xe1s)
+ 
+ 
+#### 🕹 Quiz, Juego de Preguntas
+[![](https://img.shields.io/badge/YouTube-Quiz-red)](https://www.youtube.com/watch?v=EXs_MCt5G64)
+   
+ 
+#### 🕹 Cuartro en Linea
+[![](https://img.shields.io/badge/YouTube-CuatroEnLinea-red)](https://www.youtube.com/watch?v=T3M5dw_uvjs)
+   
+#### 🕹 Arkanoid
+ [![](https://img.shields.io/badge/YouTube-Arkanoid-red)](https://www.youtube.com/watch?v=Q-J5JZHkghg&t=1389s)
+
 
 ###Realizado por:
                 Juan José Läderach con fines educativos el 25 de Julio del 2022.
