@@ -1,3 +1,5 @@
+![This is me](https://github.com/DitecnoDigital/DitecnoDigital/blob/main/PortadaJuanJose.png)
+
 # Juego "Pong"
 
 Tutorial de como realizar "Pong" en C++ usando librería SFML donde puedes ver el paso a paso en:
