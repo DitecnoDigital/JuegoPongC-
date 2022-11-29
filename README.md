@@ -1,4 +1,4 @@
-![This is me](https://github.com/DitecnoDigital/DitecnoDigital/blob/main/PortadaJuanJose.png)
+![This is me](https://github.com/DitecnoDigital/JuegoPongC-/blob/main/PortadaPong.png)
 
 # Juego "Pong"
 
