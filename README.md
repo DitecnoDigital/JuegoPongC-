@@ -28,6 +28,15 @@ Tutorial de como realizar "Pong" en C++ usando librería SFML donde puedes ver e
 #### 🕹 Arkanoid
  [![](https://img.shields.io/badge/YouTube-Arkanoid-red)](https://www.youtube.com/watch?v=Q-J5JZHkghg&t=1389s)
 
+### Tutorial para  instalar MinGW para usar g++ en la consola:
+
+[![](https://img.shields.io/badge/DitecnoMakers-MinGW-blue)](https://ditecnomakers.com/uso-de-g-para-compilar-programas-en-c/)
+
+
+### Tutorial de como usar g++ en la consola: 
+   
+ [![](https://img.shields.io/badge/DitecnoMakers-g++-blue)](https://ditecnomakers.com/utilizar-g-para-compilar-por-consola/)  
+
 
 ### Realizado por:
                 Juan José Läderach con fines educativos el 25 de Julio del 2022.
